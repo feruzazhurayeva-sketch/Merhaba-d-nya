@@ -1,5 +1,6 @@
-def main():
-    print("Merhaba Dünya!")
+#include <iostream>
 
-if __name__ == "__main__":
-    main()
+int main() {
+    std::cout << "Merhaba Dünya!" << std::endl;
+    return 0;
+}
